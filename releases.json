@@ -1,0 +1,13 @@
+{
+  "current": "5.42.2.1",
+  "releases": {
+    "5.42.2.1": {
+      "filename": "bd-sp-perl-5.42.2.1-64bit-PDL-20260513.zip",
+      "url": "https://github.com/biogeospatial/biodiverse-sp-portable/releases/download/5.42.2.1-20260513/bd-sp-perl-5.42.2.1-64bit-PDL-20260513.zip"
+    },
+    "5.38.4.1": {
+      "filename": "bd-sp-perl-5.38.4.1-64bit-PDL-20260513.zip",
+      "url": "https://github.com/biogeospatial/biodiverse-sp-portable/releases/download/5.42.2.1-20260513/bd-sp-perl-5.38.4.1-64bit-PDL-20260513.zip"
+    }
+  }
+}
